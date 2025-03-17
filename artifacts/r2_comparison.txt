@@ -1,0 +1,2 @@
+R2 Score before tuning: 0.872736232164399
+R2 Score after tuning: 0.8727369017667557

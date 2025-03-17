@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_ml_project',  # Name of your project
+    name='my_ml_project',  # Name of the project
     version='0.1.0',  # Version number of this project
     author='Narendra Tiwari',  # Your name
     author_email='narendra76052@gmail.com',  # Your email address
